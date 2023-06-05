@@ -1,0 +1,22 @@
+/* notice */
+#notice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#notice .box{
+    background: #FE6C61;
+    width: 800px;
+    height: 400px;
+    padding: 14px 14px 14px 56px;
+    margin: 20px 15px 15px 15px;
+    border-radius: 10px;
+    color: #fff;
+}
+/* questions */
+#question{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
